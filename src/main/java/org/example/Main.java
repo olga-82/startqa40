@@ -9,8 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println();
         System.out.println("mergeconflresolve");
-
-
+        System.out.println("main");
 
 
     }
